@@ -79,11 +79,19 @@ const getElements = (path) => {
 const layersSetup = (layersOrder) => {
   const layers = layersOrder.map((layerObj, index) => ({
     id: index,
-    name: layerObj.name,
     elements: getElements(`${layersDir}/${layerObj.name}/`),
-    blendMode:
-      layerObj["blend"] != undefined ? layerObj["blend"] : "source-over",
-    opacity: layerObj["opacity"] != undefined ? layerObj["opacity"] : 1,
+    name:
+      layerObj.options?.["displayName"] != undefined
+        ? layerObj.options?.["displayName"]
+        : layerObj.name,
+    blend:
+      layerObj.options?.["blend"] != undefined
+        ? layerObj.options?.["blend"]
+        : "source-over",
+    opacity:
+      layerObj.options?.["opacity"] != undefined
+        ? layerObj.options?.["opacity"]
+        : 1,
   }));
   return layers;
 };

@@ -36,6 +36,11 @@ layerConfigurations.forEach((config) => {
       elementsForLayer.push(rarityDataElement);
     });
 
+    let layerName =
+      layer.options?.["displayName"] != undefined
+        ? layer.options?.["displayName"]
+        : layer.name;
+
     // don't include duplicate layers
     if (!rarityData.includes(layer.name)) {
       // add elements for each layer to chart
