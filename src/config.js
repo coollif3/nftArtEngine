@@ -633,7 +633,7 @@ const layerConfigurations = [
     ]
   },
   {
-    growEditionSizeTo: 300,
+    growEditionSizeTo: 9800,
     layersOrder: [
       { name: "Trunk" },
       { name: "Crown" },
@@ -642,606 +642,606 @@ const layerConfigurations = [
       { name: "Accessory" }
     ]
   },
-  // {
-  //   growEditionSizeTo: 9805,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { name: "Fruit" },
-  //     { 
-  //       name: "AxieInfinity",
-  //       options: {
-  //         displayName: category.ACCESSORY
-  //       } 
-  //     }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9810,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { name: "Fruit" },
-  //     { 
-  //       name: "CrypToadz",
-  //       options: {
-  //         displayName: category.ACCESSORY
-  //       } 
-  //     }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9815,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { name: "Fruit" },
-  //     { 
-  //       name: "MoonCat",
-  //       options: {
-  //         displayName: category.ACCESSORY
-  //       } 
-  //     }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9820,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { name: "Fruit" },
-  //     { 
-  //       name: "ChickenDerby",
-  //       options: {
-  //         displayName: category.ACCESSORY
-  //       } 
-  //     }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9825,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { name: "Fruit" },
-  //     { 
-  //       name: "CryptoHoots",
-  //       options: {
-  //         displayName: category.ACCESSORY
-  //       } 
-  //     }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9830,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { name: "Fruit" },
-  //     { 
-  //       name: "Ethermon",
-  //       options: {
-  //         displayName: category.ACCESSORY
-  //       } 
-  //     }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9835,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { name: "Fruit" },
-  //     { 
-  //       name: "CryptoKitties",
-  //       options: {
-  //         displayName: category.ACCESSORY
-  //       } 
-  //     }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9840,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { name: "Fruit" },
-  //     { 
-  //       name: "CryptoFoxes",
-  //       options: {
-  //         displayName: category.ACCESSORY
-  //       } 
-  //     }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9845,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "Gate",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9850,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "Bitthumb",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9855,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "Kraken",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9860,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "Kucoin",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9865,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "Huobi",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9870,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "Bitstamp",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9875,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "Coinbase",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9880,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "Gemini",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9885,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "Bitfinex",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9890,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "FTX",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9895,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "Polkadot",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9900,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "Cardano",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9905,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "Ethereum",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9910,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "Binance",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9915,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "Bitcoin",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9920,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "Doge",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9925,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "Solana",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9930,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "XRP",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9935,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "SquareInc",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9940,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "ZB",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9945,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "Tesla",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9950,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "MicroStrategy",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9955,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "Meitu",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9960,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "Grayscale",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9965,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "ShibaSwap",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9970,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "Raydium",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9975,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "SushiSwap",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9980,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "CurveFinance",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9985,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "OneInch",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9990,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "Mdex",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 9995,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "PancakeSwap",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // },
-  // {
-  //   growEditionSizeTo: 10000,
-  //   layersOrder: [
-  //     { name: "Trunk" },
-  //     { name: "Crown" },
-  //     { name: "Soil" },
-  //     { 
-  //       name: "UniSwap",
-  //       options: {
-  //         displayName: category.FRUIT
-  //       } 
-  //     },
-  //     { name: "Accessory" }
-  //   ]
-  // }
+  {
+    growEditionSizeTo: 9805,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { name: "Fruit" },
+      { 
+        name: "AxieInfinity",
+        options: {
+          displayName: category.ACCESSORY
+        } 
+      }
+    ]
+  },
+  {
+    growEditionSizeTo: 9810,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { name: "Fruit" },
+      { 
+        name: "CrypToadz",
+        options: {
+          displayName: category.ACCESSORY
+        } 
+      }
+    ]
+  },
+  {
+    growEditionSizeTo: 9815,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { name: "Fruit" },
+      { 
+        name: "MoonCat",
+        options: {
+          displayName: category.ACCESSORY
+        } 
+      }
+    ]
+  },
+  {
+    growEditionSizeTo: 9820,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { name: "Fruit" },
+      { 
+        name: "ChickenDerby",
+        options: {
+          displayName: category.ACCESSORY
+        } 
+      }
+    ]
+  },
+  {
+    growEditionSizeTo: 9825,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { name: "Fruit" },
+      { 
+        name: "CryptoHoots",
+        options: {
+          displayName: category.ACCESSORY
+        } 
+      }
+    ]
+  },
+  {
+    growEditionSizeTo: 9830,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { name: "Fruit" },
+      { 
+        name: "Ethermon",
+        options: {
+          displayName: category.ACCESSORY
+        } 
+      }
+    ]
+  },
+  {
+    growEditionSizeTo: 9835,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { name: "Fruit" },
+      { 
+        name: "CryptoKitties",
+        options: {
+          displayName: category.ACCESSORY
+        } 
+      }
+    ]
+  },
+  {
+    growEditionSizeTo: 9840,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { name: "Fruit" },
+      { 
+        name: "CryptoFoxes",
+        options: {
+          displayName: category.ACCESSORY
+        } 
+      }
+    ]
+  },
+  {
+    growEditionSizeTo: 9845,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "Gate",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9850,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "Bitthumb",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9855,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "Kraken",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9860,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "Kucoin",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9865,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "Huobi",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9870,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "Bitstamp",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9875,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "Coinbase",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9880,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "Gemini",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9885,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "Bitfinex",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9890,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "FTX",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9895,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "Polkadot",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9900,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "Cardano",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9905,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "Ethereum",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9910,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "Binance",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9915,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "Bitcoin",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9920,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "Doge",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9925,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "Solana",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9930,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "XRP",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9935,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "SquareInc",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9940,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "ZB",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9945,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "Tesla",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9950,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "MicroStrategy",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9955,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "Meitu",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9960,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "Grayscale",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9965,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "ShibaSwap",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9970,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "Raydium",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9975,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "SushiSwap",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9980,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "CurveFinance",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9985,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "OneInch",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9990,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "Mdex",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 9995,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "PancakeSwap",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  },
+  {
+    growEditionSizeTo: 10000,
+    layersOrder: [
+      { name: "Trunk" },
+      { name: "Crown" },
+      { name: "Soil" },
+      { 
+        name: "UniSwap",
+        options: {
+          displayName: category.FRUIT
+        } 
+      },
+      { name: "Accessory" }
+    ]
+  }
 ];
 
 const shuffleLayerConfigurations = false;
@@ -1257,7 +1257,7 @@ const gif = {
   export: false,
   repeat: 0,
   quality: 100,
-  delay: 500,
+  delay: 600,
 };
 
 const text = {
